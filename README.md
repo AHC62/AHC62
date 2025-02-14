@@ -26,8 +26,8 @@ Want to collaborate or just chat about tech? Reach out to me!
 
 💼 **LinkedIn:** [Your LinkedIn Here]  
 🐦 **Twitter/X:** [Your Twitter Here]  
-💻 **GitHub:** [Your GitHub Here]  
-📧 **Email:** [Your Email Here]  
+💻 **GitHub:** [https://github.com/AHC62]  
+📧 **Email:** [hadicheema62@gmail.com]  
 
 Thanks for stopping by! Happy coding! 🚀✨  
 
